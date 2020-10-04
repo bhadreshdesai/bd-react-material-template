@@ -24,7 +24,7 @@ Login / Auth Resources
 
 [react-role-based-authorization-example stackblitz](https://stackblitz.com/edit/react-role-based-authorization-example?file=LoginPage%2FLoginPage.jsx)
 
-[react-role-based-authorization-example github]https://github.com/cornflourblue/react-role-based-authorization-example/blob/master/src/App/App.jsx
+[react-role-based-authorization-example github](https://github.com/cornflourblue/react-role-based-authorization-example/blob/master/src/App/App.jsx)
 
 [implementing-private-routes-with-react-router-and-hooks](https://medium.com/trabe/implementing-private-routes-with-react-router-and-hooks-ed38d0cf93d5)
 
